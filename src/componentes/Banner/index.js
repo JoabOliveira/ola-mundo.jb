@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Olá! Sou Joab Oliveira, entusiasta ao desenvolvimento de Softwere e seu padrão de Qualidade. No momento aplicado ao JavaScript e React.js. Posteriormente as trilhas de QA, que o Alura oferece. Vamos conversar?
+                    Olá! Sou Joab Oliveira, entusiasta ao desenvolvimento de Software e seu padrão de Qualidade. No momento aplicado ao JavaScript e React.js. Posteriormente as trilhas de QA, que o Alura oferece. Vamos conversar?
                 </p>
             </div>
 
